@@ -19,5 +19,6 @@ Dobrodružná RPG hra zasazená do džungle a starého chrámu
 
 ## Autor  
 Já
+
 Vytvořeno s vášní za 38 hodin.  
 
